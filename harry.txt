@@ -1,0 +1,33 @@
+<html>
+   <head>
+	<title> Harry Potter </title>
+ </head>
+ <body>
+	<header>
+		Harry Potter S2 <br> 
+		<img src="harryPotter.png" width=5%>
+		
+	</header>
+	<nav>
+
+
+
+	</nav>
+	<section>
+  		<img src="harryPotter.png"><p>Harry Tiago Potter (31 de julho de 1980[1]) é um bruxo inglês mestiço, e um dos mais famosos da atualidade. Ele é o único filho de Tiago e Lílian Potter, ambos membros da Ordem da Fênix original. Seu nascimento foi ofuscado por uma profecia, nomeando ele mesmo ou Neville Longbottom como aquele que possuía o poder de derrotar Lorde Voldemort. Depois da metade da profecia ser relatada para o Lorde das Trevas, em cortesia de Severo Snape, Harry foi escolhido como alvo devido às muitas semelhanças entre ele e Voldemort. Por sua vez, isso fez com que a família Potter se escondesse. Voldemort fez sua primeira tentativa em vão de contornar a profecia quando Harry tinha apenas um ano e três meses de idade. Durante a tentativa, ele assassinou os pais de Harry que tentavam protegê-lo, mas a tentativa malsucedida de matar o bebê levou à primeira queda de Voldemort. Esta queda marcou o fim da Primeira Guerra Bruxa, com Harry passando a ser conhecido como o "Menino que Sobreviveu", já que se tornou o único sobrevivente conhecido da Maldição da Morte.</p>
+
+<p>Por consequência do sacrifício amoroso da mãe, Harry teve de ser criado pelo único parente de sangue restante, sua tia trouxa, Petúnia Dursley. Enquanto esteve sob seus cuidados, ele estava protegido de Lorde Voldemort, devido ao feitiço de Laço de Sangue que Alvo Dumbledore colocou sobre ele. Este poderoso encantamento lhe protegeu até a sua maioridade, não podendo mais chamar a casa de sua tia de "lar". Devido ao ressentimento de Petúnia por Lílian, por ser uma bruxa, Harry cresceu sendo abusado e negligenciado.</p>
+
+
+	</section>
+<hr>
+	<footer>
+	<a href="contato.html"> Contato </a><br>
+	<center> <video src="HarryPotter.mp4" controls width=25%> 
+	</footer>
+ </body>
+</html>
+
+
+
+

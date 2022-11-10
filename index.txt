@@ -1,0 +1,77 @@
+
+<html>
+   <head>
+	<title> Harry Potter </title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+ </head>
+ <body>
+	<header>
+		Harry Potter S2 <br> 
+		<img src="harryPotter.png" width=5%>
+		
+	</header>
+	<nav>
+
+
+	<details>
+<summary> Livros </summary>
+<br>
+Harry Potter e a Pedra Filosofal (1997) <br>
+Harry Potter e a Câmara Secreta (1998); <br>
+Harry Potter e o Prisioneiro de Azkaban (1999); <br>
+Harry Potter e o Cálice de Fogo (2000);<br>
+Harry Potter e a Ordem da Fênix (2003);<br>
+Harry Potter e o Enigma do Príncipe (2005)<br>
+Harry Potter e as reliquias da morte I (2007)<br>
+<br>
+</details>
+
+<details>
+<summary> Filmes </summary>
+<br>
+Harry Potter e a Pedra Filosofal (2001);<br>
+Harry Potter e a Câmara Secreta (2002); <br>
+Harry Potter e o Prisioneiro de Azkaban (2004); <br>
+Harry Potter e o Cálice de Fogo (2005);<br>
+Harry Potter e a Ordem da Fênix (2007);<br>
+Harry Potter e o Enigma do Príncipe (2009)<br>
+Harry Potter e as reliquias da morte I (2010)<br>
+Harry Potter e as reliquias da morte II (2011)<br>
+<br>
+
+
+</details>
+
+
+
+	</nav>
+	<section>
+  		<p> <b> Harry Potter</b> é uma série de sete romances de fantasia escrita pela autora britânica J. K. Rowling. A série narra as aventuras de um jovem chamado Harry James Potter, que descobre aos 11 anos de idade que é um bruxo ao ser convidado para estudar na Escola de Magia e Bruxaria de Hogwarts. O arco de história principal diz respeito às amizades de Harry com outros bruxos de sua idade, como Ronald Weasley e Hermione Granger, e também com o diretor de Hogwarts Albus Dumbledore, considerado o maior dos magos, e seus conflitos com o bruxo das trevas Lord Voldemort, que pretende se tornar imortal, conquistar o mundo dos bruxos, subjugar as pessoas não-mágicas e destruir todos aqueles que estão em seu caminho, especialmente Harry Potter, a quem ele considera seu maior rival. </p>
+
+	<center>	<table border="1">
+		<tr>
+		<td><a href="harry.html"> <img src="harry.png"> </a></td>
+		<td> <img src="hermione.png"></td>
+		<td> <img src="Ronny.png"></td>
+		</tr>	
+		<tr>
+		<td> <img src="snape.png"></td>
+		<td> <img src="sirius.png"></td>
+		<td> <img src="irmaos.png"></td>
+		</tr>	
+
+
+		</table> 
+
+	</section>
+<hr>
+	<footer>
+	<a href="contato.html"> Contato </a><br>
+	<center><audio src="Harry-Potter.mp3" controls>
+	</footer>
+ </body>
+</html>
+
+
+
+
