@@ -1,37 +1,30 @@
 body{
 	color: black;
 	font-family: "Comic Sans";
-	background-color:#DCDCDC;
+	background-color:#1a29f1;
 }
-
 a:link, a:visited {
-  
   color: black;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
-
 a:hover, a:active {
   text-decoration: underline;
   background-color: #c8a591;
 }
-
 body	{
 							margin-left:	auto;				margin-right:	auto;
 	width: 940px;
 			}
-
 h3{
 text-align:center;
 }
-
 img{
 border-radius: 50%;    
 opacity: 0.5;
 }
-
 img:hover{
     transform: scale(1.2);
 }
