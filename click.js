@@ -1,8 +1,8 @@
 function umClique(){
-  document.getElementById("imagem").src="patrono.png";
+  document.getElementById("imagem").src="images (1).jpg";
   
 }
 function doisCliques(){
-  document.getElementById("imagem").src="harry.jpg";
+  document.getElementById("imagem").src="download.jpg";
   
 }
